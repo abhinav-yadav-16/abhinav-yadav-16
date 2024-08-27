@@ -1,9 +1,12 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3_t5snth7ZSsHCgDzbozZO&ust=1724830185827000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj9xtbTlIgDFQAAAAAdAAAAABAE)](https://abhinav-yadav-16.io)
 
+
+[![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://github.com/abhinav-yadav-16)
 
 <h1 align="center">Hi 👋, I'm Abhinav Yadav</h1>
 <h3 align="center">Crafting Code & Brewing Coffee while Turning Bugs into Features !!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fhacker-58%2F&psig=AOvVaw3ye8yxTw0NBgzLW_jHKdI-&ust=1724830108144000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOC4-obTlIgDFQAAAAAdAAAAABAE">
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-yadav-16&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-yadav-16" /> </p>
 
