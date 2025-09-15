@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav-yadav-16" alt="abhinav-yadav-16" /></a> </p>
 
-- 🔭 I’m currently working on **DeepFake Detection**
+- 🔭 I’m currently working on **REINFORCEMENT lEARNING**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Front-end Developing ,Java Programming**
+- 💬 Ask me about **AI/ML, Python Programming**
 
 - 📫 How to reach me **abhinav905040@gmail.com**
 
